@@ -1,0 +1,27 @@
+{
+  "name": "101388514_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyodor2021/101388514_comp3123-exec04.git"
+  },
+  "author": "Vedoor Barakat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyodor2021/101388514_comp3123-exec04/issues"
+  },
+  "homepage": "https://github.com/fyodor2021/101388514_comp3123-exec04#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
